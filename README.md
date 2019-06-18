@@ -1,3 +1,7 @@
+Finalement pour accommoder les références il faut quand même être lié à l'item.
+L'idée c'est de, ppour les topic de viewpoint d'une classe particulière (attribut : "traitement" et valeur "reference", par exemple), permettre que l'item porte en même temps que la réf au topic, un couple artribut-valeur comportant la référence complète.
+
+
 The Hypertopic protocol is to the Social Semantic Web what SPARQL is to the Formal Semantic Web. 
 It is based on the Hypertopic model which is an alternative to RDF/RDFS.
 
