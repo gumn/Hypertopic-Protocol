@@ -50,7 +50,7 @@ There was no efficient way to do complex algorithms if the link between sources 
 
 We considered standard or well-known URI schemes for [user-named contents](http://www.ietf.org/rfc/rfc4151.txt) such as corpora, [hash contents](http://en.wikipedia.org/wiki/Uniform_Resource_Name#Non-standard_usage) such as resources, and [plain text fragment identifiers](http://tools.ietf.org/html/rfc5147). But we chose the simplest way to refer them (UUIDs and coordinates).
 
-![Data model](https://github.com/Hypertopic/Protocol/raw/master/class_diagram.png "UML class diagram")
+![Data model](https://github.com/gumn/Protocol/raw/mes-protocol/argos-bis.png "UML class diagram")
 
 Note: Item-Item will remain unspecified until we have more real cases for it.
 
